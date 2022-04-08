@@ -8,7 +8,7 @@ https://fcm.googleapis.com/fcm/send (POST)
 Firebase'e Body kısmına aşağıdakini yapıştır. Token'ı ekle.
 Header kısmına 
   KEY : Authorization
-  VALUE : key=SenderKey
+  VALUE : key=serverKey
 
 {
  "to" : "<<token>>",
