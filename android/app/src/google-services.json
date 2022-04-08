@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660464431762",
+    "project_id": "customsound-4d314",
+    "storage_bucket": "customsound-4d314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660464431762:android:56217ad62ca35e1389ac4b",
+        "android_client_info": {
+          "package_name": "com.eyupakky.custom_notification_sound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660464431762-eijpm0qncpjlb12msm3db1tncsce9ob6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAinBpE1jqbgEN1KH7uYogahdQri7f50U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660464431762-eijpm0qncpjlb12msm3db1tncsce9ob6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
